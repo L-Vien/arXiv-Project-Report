@@ -4,11 +4,11 @@
 **Institution:** University of Science, VNU-HCM  
 **Group:** Group 4 
 **Members:**  
-*Phan Văn Bá Đạt - 24127023*
-*Nguyễn Bá Quốc Học - 24127045*
-*Dương Bảo Nhi - 24127096*
-*Nguyễn Trần Lan Viên - 24127268*
-*Phạm Minh Thư - 24217550*
+*Phan Văn Bá Đạt - 24127023*  
+*Nguyễn Bá Quốc Học - 24127045*  
+*Dương Bảo Nhi - 24127096*  
+*Nguyễn Trần Lan Viên - 24127268*  
+*Phạm Minh Thư - 24217550*  
 
 ## Project Overview
 
