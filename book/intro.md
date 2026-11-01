@@ -2,7 +2,7 @@
 
 **Course:** Introduction to Data Science  
 **Institution:** University of Science, VNU-HCM  
-**Group:** Group 4 
+**Group:** Group 4  
 **Members:**  
 *Phan Văn Bá Đạt - 24127023*  
 *Nguyễn Bá Quốc Học - 24127045*  
