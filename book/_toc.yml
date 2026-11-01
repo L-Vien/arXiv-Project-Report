@@ -1,0 +1,17 @@
+format: jb-book
+root: intro
+
+parts:
+  - caption: "Milestone 1 - Data Crawling"
+    chapters:
+      - file: m1/01_introduction
+      - file: m1/02_data_sources
+      - file: m1/03_architecture
+      - file: m1/04_data_organization
+      - file: m1/05_results
+      - file: m1/06_benchmark
+      - file: m1/07_discussion
+
+  - caption: "Appendices"
+    chapters:
+      - file: references
